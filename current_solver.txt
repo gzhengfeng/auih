@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/cloudflare
+https://ultimately-default-wait-plate.trycloudflare.com/cloudflare
