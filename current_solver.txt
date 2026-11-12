@@ -1,1 +1,1 @@
-https://short-sarah-safer-metallica.trycloudflare.com/cloudflare
+https://api.trycloudflare.com/cloudflare
